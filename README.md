@@ -3,7 +3,7 @@
 </p>
 
 <h1>Enabling and Unlocking Accounts and Resetting Passwords (Azure)</h1>
-This tutorial outlines the Enabling and unlocking of Accounts of Active Directory within Azure Virtual Machines.<br />
+This tutorial will help you understand how account lockout works, how to manage user accounts, and how to monitor authentication events of Active Directory within Azure Virtual Machines.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -24,10 +24,15 @@ This tutorial outlines the Enabling and unlocking of Accounts of Active Director
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+-Configure Group Policy to set an account lockout threshold.
+
+-Attempt failed logins to trigger an account lockout.
+
+-Unlock and reset the password.
+
+-Disable and re-enable the account to observe the effect.
+
+-Monitor logs both on the domain controller and client machine.
 
 <h2>Deployment and Configuration Steps</h2>
 
