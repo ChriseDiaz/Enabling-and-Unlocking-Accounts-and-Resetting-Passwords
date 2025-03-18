@@ -63,6 +63,22 @@ This process demonstrates how to configure account lockouts and manage account a
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Steps for enabling, disabling accounts, and observing logs:
+
+1.Disable the user account in Active Directory.
+
+2.Attempt to log in with the disabled account and observe the error message.
+
+3.Re-enable the account in Active Directory.
+
+4.Attempt to log in again with the re-enabled account.
+
+Observing Logs:
+
+1.Check the logs on the Domain Controller for any relevant events.
+
+2.Check the logs on the client machine to see any login-related activity or errors.
+
+This process covers managing user account status and reviewing logs on both the Domain Controller and Client machine.
 </p>
 <br />
