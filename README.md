@@ -72,6 +72,9 @@ This process demonstrates how to configure account lockouts and manage account a
 ![Image](https://github.com/user-attachments/assets/1597e527-2c84-4bb9-a6f7-547e04c15ddc)
 
 </p>
+
+![Image](https://github.com/user-attachments/assets/a8fe687b-fa13-40e9-bf1f-6e2fda0527a4)
+
 <p>
 Steps for enabling, disabling accounts, and observing logs:
 
