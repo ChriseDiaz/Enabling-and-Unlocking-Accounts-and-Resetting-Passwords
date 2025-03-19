@@ -15,6 +15,7 @@ This tutorial will help you understand how account lockout works, how to manage 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
+- Active Directory Users and Computers
 - PowerShell
 
 <h2>Operating Systems Used </h2>
