@@ -38,7 +38,7 @@ This tutorial will help you understand how account lockout works, how to manage 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Image](https://github.com/user-attachments/assets/fde0cd4d-37fb-45e5-841b-2aabcff193bc)
 </p>
 <p>
 Process for dealing with account lockouts:
