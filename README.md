@@ -8,7 +8,7 @@ This tutorial will help you understand how account lockout works, how to manage 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube/ClipChamp: Enabling and Unlocking Accounts and Resetting Passwords](https://www.youtube.com)
+- ### [YouTube/ClipChamp: Enabling and Unlocking Accounts and Resetting Passwords](https://youtu.be/g0OsqpcXJX4?si=d24ZYUj0qzeToRbD)
 
 <h2>Environments and Technologies Used</h2>
 
